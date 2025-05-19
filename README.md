@@ -5,4 +5,4 @@ I am currently wrapping up a PhD in generative AI while working as an AI consult
 
 Check out my [LinkedIn](https://www.linkedin.com/in/filipe-altoe-1605072)
 
-E-mail me at [filipe.altoe@gmail.com](filipe.altoe@gmail.com)
+E-mail me at filipe.altoe@gmail.com
